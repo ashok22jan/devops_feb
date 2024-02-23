@@ -1,0 +1,37 @@
+This is test by Ashok
+   59  git branch 
+   60  git checkout -b ASHOK
+   61  git branch 
+   62  git branch Maddy
+   63  git branch 
+   64 
+   65  git branch 
+   66  git status
+   67  git add file1.txt
+   68  git status
+   69  git add file1
+   70  git status
+   71  git add file2
+   72  git status
+   73  git commit -m "creating a new file"
+   74  git config --global user.email "ashok22jan@hotmail.com"
+   75  clear
+   76  git commit -m "creating a new file"
+   77  git push 
+   78  git push --set-upstream orgin devops_feb
+   79  git push --set-upstream orgin ashok22jan
+   80  clear
+   81  git push 
+   82  git push --set-upstream origin ASHOK
+   83  history
+   84  touch file_test.txt
+   85  ls -lsthr
+   86  git
+   87  clear
+   88  history
+   89  git push 
+   90  git add file_test.txt 
+   91  git commit -m "creating a new file"
+   92  git push
+   93  git push --set-upstream origin ASHOK
+   94  ls
